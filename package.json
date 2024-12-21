@@ -57,6 +57,7 @@
     "recognize_pixtral": "bun run recognize_pixtral/app.ts",
     "prompts": "bun run prompts/app.ts",
     "summary": "bun run summary/app.ts",
+    "s01e01": "bun run s01e01/app.ts",
     "narration": "bun run narration/app.ts",
     "audio": "bun run audio/app.ts",
     "algolia": "bun algolia/app.ts",
